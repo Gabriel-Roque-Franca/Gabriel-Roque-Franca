@@ -5,8 +5,8 @@ Eu me chamo Gabriel Roque França
 Estou aprendendo a programar em Java, SQL e MySQL
 
 <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielRoqueFranca&show_icons=true&theme=tokyonight"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRoqueFranca&layout=compact&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Roque-Franca&show_icons=true&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Roque-Franca&layout=compact&theme=tokyonight"/>
 </div>
 
 ### Minhas Redes Sociais 🤠
