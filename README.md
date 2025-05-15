@@ -14,19 +14,33 @@ Eu me chamo Gabriel Roque França
 
 ### Tecnologias que eu uso / Estou aprendendo 🖊
 
-<div style="display: inline_block">
-  <img align="center" alt="Gabriel-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-  <img align="center" alt="Gabriel-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-  <img align="center" alt="Gabriel-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
+<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+  <div>
+    <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+    <span>Java</span>
+  </div>
+  
+  <div>
+    <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+    <span>MySQL</span>
+  </div>
+  
+  <div>
+    <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+    <span>SQL</span>
+  </div>
 </div>
-
-#### Bancos de Dados:
-- <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-- <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
 
 ### IDEs que utilizo 💻
 
-<div>
-  <img align="center" alt="Gabriel-Netbeans" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg"/>
-  <img align="center" alt="Gabriel-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
+<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
+  <div>
+    <img align="center" alt="NetBeans" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg"/>
+    <span>NetBeans</span>
+  </div>
+  
+  <div>
+    <img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
+    <span>VSCode</span>
+  </div>
 </div>
