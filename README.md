@@ -21,6 +21,11 @@ Eu me chamo Gabriel Roque França
   </div>
   
   <div>
+    <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+    <span>JavaScript</span>
+  </div>
+  
+  <div>
     <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
     <span>MySQL</span>
   </div>
