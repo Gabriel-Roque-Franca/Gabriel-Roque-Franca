@@ -13,7 +13,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-roque-fran%C3%A7a)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielroque.franca@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/franca)
 
 </div>
 
@@ -98,23 +97,6 @@ Estudante de Ciência da Computação com foco em **Cibersegurança defensiva (B
     </td>
   </tr>
 </table>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=franca&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franca&layout=compact&langs_count=7&theme=dark&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=franca&theme=dark&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
